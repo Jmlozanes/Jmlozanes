@@ -3,137 +3,278 @@
 </h1>
 
 <h3 align="center">
-  Computer Science Graduate | Building Full-Stack Web Applications
+  BS Computer Science Graduate | Full-Stack Developer in Progress
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer+in+Progress;Learning+Backend+Development;Building+Web+Applications;Exploring+QA+Automation;Improving+Software+Development+Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Web+Applications;Frontend+Development;Backend+API+Development;Database+Management;Exploring+Software+Testing+Automation" />
 </p>
-
----
-
-## 👨‍💻 About Me
-
-I am a **BS Computer Science Graduate** passionate about software development, system design, and creating digital solutions through technology.
-
-I enjoy building web applications, improving workflows, and exploring technologies related to frontend development, backend development, databases, and software testing.
-
-Currently, I am continuously improving my skills by creating projects, learning new technologies, and applying programming concepts into practical solutions.
-
----
-
-# 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,nodejs,express,mysql,git,github,vscode,figma&perline=7" />
+  <img src="https://komarev.com/ghpvc/?username=Jmlozanes&color=blue" />
 </p>
 
 ---
 
-# 💻 Programming Journey
+# 👨‍💻 About Me
+
+I am a **BS Computer Science Graduate** passionate about software development, system design, and building practical digital solutions.
+
+I enjoy creating web applications, improving workflows, and exploring technologies related to **frontend development, backend development, databases, and software engineering practices**.
+
+Currently, I am continuously improving my skills by developing full-stack projects, learning new technologies, and applying programming concepts into real-world applications.
+
+My goal is to build reliable, scalable, and user-friendly software solutions while continuously growing as a developer.
+
+---
+
+# 🛠️ Technical Skills
+
+## Frontend Development
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Tailwind CSS
+- Responsive Web Design
+
+## Backend Development
+
+- Node.js
+- Express.js
+- PHP
+- REST API Development
+
+## Database
+
+- MySQL
+- MongoDB
+- SQL Fundamentals
+- Database Design
+
+## Tools & Technologies
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
+
+---
+
+# 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=HTML+%7C+CSS+%7C+JavaScript;PHP+%7C+MySQL+%7C+Backend+Development;Node.js+%7C+REST+API+Development;Building+Full+Stack+Projects;Learning+Software+Testing+Automation" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,php,mysql,mongodb,git,github,vscode,figma&perline=7" />
 </p>
 
 ---
 
-# 🧠 Development Focus
+# 💻 Development Focus
 
 <table align="center">
+
 <tr>
 
-<td align="center" width="200">
-💻<br>
-<b>Frontend Development</b><br>
-HTML • CSS • JavaScript<br>
+<td align="center" width="220">
+
+💻
+
+<b>Frontend Development</b>
+
+React.js  
+JavaScript  
+UI Development  
 Responsive Design
+
 </td>
 
-<td align="center" width="200">
-⚙️<br>
-<b>Backend Development</b><br>
-Node.js • Express.js<br>
-PHP
+
+<td align="center" width="220">
+
+⚙️
+
+<b>Backend Development</b>
+
+Node.js  
+Express.js  
+REST API  
+Server Development
+
 </td>
 
-<td align="center" width="200">
-🗄️<br>
-<b>Database</b><br>
-MySQL<br>
-SQL Fundamentals
+
+<td align="center" width="220">
+
+🗄️
+
+<b>Database Management</b>
+
+MySQL  
+MongoDB  
+Data Modeling  
+SQL Queries
+
 </td>
 
-<td align="center" width="200">
-🤖<br>
-<b>AI Tools</b><br>
-ChatGPT • Claude<br>
-Coding Assistance
+
+<td align="center" width="220">
+
+🧪
+
+<b>Software Quality</b>
+
+Testing Concepts  
+Debugging  
+Automation Exploration
+
 </td>
+
 
 </tr>
+
 </table>
+
 
 ---
 
 # 📌 Featured Projects
 
-## 🖥️ IT Support Ticketing System
 
-A web-based ticketing system designed to manage IT concerns, track requests, and improve technical support workflow.
+## 🛒 ShopSphere - Full Stack E-Commerce Platform
 
-**Technologies:**
+A modern full-stack e-commerce web application designed to simulate a real-world online shopping platform.
 
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+### Features:
+
+- User authentication
+- Product management
+- Shopping cart
+- Order management
+- Admin dashboard
+- Sales analytics
+- Product browsing and filtering
+
+### Technologies:
+
+`React.js`  
+`Tailwind CSS`  
+`Node.js`  
+`Express.js`  
+`MongoDB`  
+`JWT Authentication`
+
+
+---
+
+## 🎫 IT Support Ticketing System
+
+A web-based ticketing system designed to manage IT concerns, track requests, and improve technical support workflows.
+
+### Features:
+
+- Ticket submission
+- Request tracking
+- Status management
+- Support workflow organization
+
+### Technologies:
+
+`PHP`  
+`MySQL`  
+`HTML`  
+`CSS`  
+`JavaScript`
+
 
 ---
 
 ## 📦 Inventory Management System
 
-A full-stack inventory system designed to manage items, stock movement, transactions, and inventory records.
+A full-stack inventory management application designed to monitor items, stock movement, and inventory records.
 
-**Technologies:**
+### Features:
 
-`HTML` `CSS` `JavaScript` `Node.js` `MySQL`
+- Item management
+- Stock monitoring
+- Transaction tracking
+- Inventory reporting
+
+### Technologies:
+
+`JavaScript`  
+`Node.js`  
+`MySQL`  
+`HTML`  
+`CSS`
+
 
 ---
 
 ## 🌐 Frontend Development Projects
 
-A collection of frontend exercises and website projects created using HTML, CSS, and JavaScript.
+A collection of frontend projects created to improve skills in user interface development, responsive layouts, and JavaScript programming.
 
-**Focus Areas:**
+### Focus Areas:
 
-`UI Design` `Responsive Layouts` `Web Components`
+- UI implementation
+- Responsive design
+- DOM manipulation
+- Interactive web components
+
 
 ---
 
-## 🧩 JavaScript Projects
+# 🚧 Currently Building
 
-A collection of JavaScript exercises and small applications focused on programming logic, functions, validation, and problem-solving.
+## 🛒 ShopSphere
 
-Projects include:
+Full-stack e-commerce application focusing on:
 
-- Loan Qualification Checker
-- Card Counting Assistant
-- Email Masker
-- String Truncation Tool
-- Leap Year Validator
-- Simple Authentication
+- Frontend architecture
+- Backend API development
+- Database integration
+- Authentication
+- Real-world application workflow
+
+
+## 📊 System Development Projects
+
+Continuously improving projects involving:
+
+- Data management
+- Dashboard development
+- Business process automation
+
 
 ---
 
 # 📚 Currently Learning
 
-🌱 Node.js Backend Development  
-🌱 REST API Development  
-🌱 Database Management  
-🌱 Software Testing & Automation  
-🌱 Full-Stack Web Development  
+🌱 Advanced React Development  
+🌱 Backend API Architecture  
+🌱 Database Optimization  
+🌱 Software Testing Automation  
+🌱 Cloud Deployment  
+🌱 Clean Code Practices  
+
+---
+
+# 📈 GitHub Activity
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jmlozanes&theme=tokyo-night"/>
+
+</p>
+
 
 ---
 
 # 📊 GitHub Stats
+
 
 <p align="center">
 
@@ -141,27 +282,40 @@ Projects include:
 
 </p>
 
+
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jmlozanes&theme=tokyonight" />
 
 </p>
 
+
+---
+
+# 🏆 Development Goals
+
+- Build production-ready applications
+- Improve backend development skills
+- Learn software engineering best practices
+- Create useful technology solutions
+- Continuously improve through projects and collaboration
+
+
 ---
 
 # 📫 Connect With Me
 
-📧 Email:  
+
+📧 Email:
+
 johnmarclozanes503@gmail.com
 
-🔗 LinkedIn:  
+
+🔗 LinkedIn:
+
 https://www.linkedin.com/in/john-marc-lozanes-33652b243/
 
-🔗 GitHub:  
-https://github.com/Jmlozanes
 
 ---
 
-<p align="center">
 ⭐ Thanks for visiting my profile!
-</p>
