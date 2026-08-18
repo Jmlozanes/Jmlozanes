@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  BS Computer Science Graduate | Aspiring Software Developer
+  Computer Science Graduate | Building Full-Stack Web Applications
 </h3>
 
 <p align="center">
