@@ -264,7 +264,7 @@ I believe effective software development requires:
 <p align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api?username=Jmlozanes&show_icons=true&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=Jmlozanes&show_icons=true&theme=tokyonight"
 alt="GitHub Stats"
 />
 
@@ -274,28 +274,8 @@ alt="GitHub Stats"
 <p align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmlozanes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmlozanes&layout=compact&theme=tokyonight"
 alt="Top Languages"
-/>
-
-</p>
-
-
-<p align="center">
-
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=Jmlozanes&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</p>
-
-
-<p align="center">
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=Jmlozanes&theme=github-compact&hide_border=true"
-alt="GitHub Activity Graph"
 />
 
 </p>
