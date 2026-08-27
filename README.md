@@ -89,19 +89,21 @@ A collection of frontend projects built to sharpen UI development, responsive la
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jmlozanes&theme=tokyo-night" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jmlozanes&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" width="100%"/>
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jmlozanes&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jmlozanes&theme=tokyonight" alt="GitHub streak stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jmlozanes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Jmlozanes&theme=tokyonight&hide_border=true" alt="GitHub streak stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmlozanes&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmlozanes&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
+
+> **Note:** Kung minsan hindi agad lumalabas ang mga stats card na ito dahil sa caching o rate limits ng libreng Vercel hosting — mag-a-auto-load lang siya kapag na-refresh ang page o pagkalipas ng ilang minuto.
 
 ---
 
