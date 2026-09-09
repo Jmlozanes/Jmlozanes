@@ -21,7 +21,7 @@ BS Computer Science Graduate | Full-Stack Developer
 
 # About Me
 
-I am a BS Computer Science graduate focused on full-stack web development, software engineering, and building practical technology solutions.
+I Am a BS Computer Science graduate focused on full-stack web development, software engineering, and building practical technology solutions.
 
 I enjoy creating applications that solve real-world problems through clean architecture, efficient development practices, and user-focused design.
 
