@@ -1,39 +1,47 @@
-<h1 align="center">Hi, I'm John Marc Lozañes</h1>
+<h1 align="center">
+  Hi 👋, I'm John Marc Lozañes
+</h1>
 
 <h3 align="center">
-BS Computer Science Graduate | Full-Stack Developer
+  💻 BS Computer Science Graduate | Full-Stack Developer
 </h3>
 
 <p align="center">
-  Full-Stack Web Development | Frontend | Backend | Database Systems
+  Building scalable web applications through modern frontend, backend, and database technologies.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Applications;Frontend+%7C+Backend+%7C+Database+Development;Creating+Practical+Software+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Frontend+%7C+Backend+%7C+Database+Engineer;Creating+Practical+Software+Solutions;Turning+Ideas+Into+Applications" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jmlozanes&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Jmlozanes&label=Profile+Views&color=blue&style=flat" />
 </p>
 
+---
+
+# 🚀 About Me
+
+I am a **BS Computer Science graduate** passionate about **full-stack web development, software engineering, and building practical technology solutions**.
+
+I enjoy developing applications that solve real-world problems by combining:
+
+- Clean and maintainable code
+- Efficient system architecture
+- User-centered design
+- Reliable database solutions
+
+Currently, I focus on creating modern web applications, improving backend systems, designing databases, and continuously expanding my software engineering skills.
 
 ---
 
-# About Me
+# 🧑‍💻 Technical Skills
 
-I Am a BS Computer Science graduate focused on full-stack web development, software engineering, and building practical technology solutions.
+## 🎨 Frontend Development
 
-I enjoy creating applications that solve real-world problems through clean architecture, efficient development practices, and user-focused design.
-
-My current focus includes building modern web applications, developing backend services, managing databases, and improving my skills in software development.
-
-
----
-
-# Technical Skills
-
-
-## Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
 
 - HTML5
 - CSS3
@@ -41,287 +49,272 @@ My current focus includes building modern web applications, developing backend s
 - React.js
 - Tailwind CSS
 - Responsive Web Design
+- Component-Based Development
 
 
-## Backend Development
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
 - Node.js
 - Express.js
 - PHP
 - REST API Development
 - Authentication Systems
+- Backend Architecture
 
 
-## Database
+## 🗄️ Database Management
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 - MongoDB
 - MySQL
 - SQL
 - Database Design
 - CRUD Operations
+- Data Management
 
 
-## Tools & Technologies
+## 🛠️ Development Tools
 
-- Git
-- GitHub
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+</p>
+
+- Git & GitHub
 - Visual Studio Code
 - Postman
 - Figma
-- Vite
 - npm
-
+- Vite
 
 ---
 
-# Technology Stack
-
+# 🧰 Technology Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,php,mysql,mongodb,git,github,vscode,figma&perline=7"/>
+<img src="https://skillics.dev/icons?i=html,css,js,react,tailwind,nodejs,express,php,mysql,mongodb,git,github,vscode,figma&perline=7"/>
 
 </p>
 
+---
+
+# 🎯 Development Focus
+
+I build software solutions focused on:
+
+✨ Clean and maintainable architecture  
+✨ Responsive and intuitive interfaces  
+✨ Efficient backend services  
+✨ Secure authentication systems  
+✨ Reliable database management  
+✨ Scalable application structures  
 
 ---
 
-# Development Focus
-
-I focus on developing software solutions with:
-
-- Clean and maintainable code
-- Scalable application structures
-- Responsive user interfaces
-- Efficient backend systems
-- Reliable database management
-
----
-
-# Featured Projects
+# 📌 Featured Projects
 
 
-## ShopSphere
+## 🛒 ShopSphere
 
 ### Full-Stack E-Commerce Platform
 
+A full-stack e-commerce application designed to simulate a real-world online shopping platform.
 
-A modern full-stack e-commerce application designed to simulate a real-world online shopping platform.
-
-The project focuses on implementing frontend architecture, backend services, database integration, and user authentication.
-
+The project focuses on implementing modern frontend architecture, backend services, database integration, and secure user authentication.
 
 ### Features
 
-- User authentication and authorization
-- Product management
-- Product browsing and filtering
-- Shopping cart functionality
-- Order management
-- Admin dashboard
-- Sales analytics
-- Database-driven workflow
+✅ User Authentication & Authorization  
+✅ Product Management  
+✅ Product Browsing & Filtering  
+✅ Shopping Cart System  
+✅ Order Management  
+✅ Admin Dashboard  
+✅ Sales Analytics  
+✅ Database-Driven Workflow  
 
 
-### Technology Stack
-Frontend:
-React.js
-Tailwind CSS
+### Tech Stack
 
-Backend:
-Node.js
-Express.js
+**Frontend**
+- React.js
+- Tailwind CSS
 
-Database:
-MongoDB
+**Backend**
+- Node.js
+- Express.js
 
-Authentication:
-JWT
+**Database**
+- MongoDB
 
+**Authentication**
+- JWT
 
 
 ---
 
-## IT Support Ticketing System
+# 🎫 IT Support Ticketing System
 
-
-A web-based ticket management system designed to organize IT concerns, improve request tracking, and streamline support workflows.
-
+A web-based ticket management platform designed to organize IT concerns, improve request tracking, and streamline support workflows.
 
 ### Features
 
-- Ticket submission
-- Request monitoring
-- Status tracking
-- Support workflow management
-- Organized issue documentation
+✅ Ticket Submission  
+✅ Request Monitoring  
+✅ Status Tracking  
+✅ Support Workflow Management  
+✅ Organized Issue Documentation  
 
 
-### Technology Stack
-Frontend:
-HTML
-CSS
-JavaScript
+### Tech Stack
 
-Backend:
-PHP
+**Frontend**
+- HTML
+- CSS
+- JavaScript
 
-Database:
-MySQL
+**Backend**
+- PHP
+
+**Database**
+- MySQL
 
 
 ---
 
-## Inventory Management System
+# 📦 Inventory Management System
 
-
-A system developed for managing inventory records, tracking stock movement, and improving data organization.
-
+A system developed to manage inventory records, monitor stock movement, and improve business data organization.
 
 ### Features
 
-- Item management
-- Inventory monitoring
-- Stock movement tracking
-- Transaction records
-- Data reporting
+✅ Item Management  
+✅ Inventory Monitoring  
+✅ Stock Movement Tracking  
+✅ Transaction Records  
+✅ Data Reporting  
 
 
-### Technology Stack
+### Tech Stack
 
-Frontend:
-HTML
-CSS
-JavaScript
+**Frontend**
+- HTML
+- CSS
+- JavaScript
 
-Backend:
-Node.js
+**Backend**
+- Node.js
 
-Database:
-MySQL
+**Database**
+- MySQL
 
 
 ---
 
-# Current Development
+# 🔥 Currently Building
 
-
-## ShopSphere
+## ShopSphere Enhancement
 
 Currently improving:
 
-- Frontend component architecture
+- React component architecture
 - Backend API development
-- Database integration
+- Database optimization
 - Authentication workflow
 - Application scalability
 
 
-## Software Projects
+## Software Development Projects
 
-Continuously building applications focused on:
+Continuously exploring projects involving:
 
 - Business process automation
 - Data management systems
-- Dashboard development
+- Dashboard applications
 - Practical software solutions
-
 
 ---
 
-# Learning Journey
+# 📚 Learning Journey
 
-
-Currently expanding knowledge in:
+Currently expanding my knowledge in:
 
 - Advanced React Development
 - Backend System Architecture
 - REST API Design
 - Database Optimization
-- Software Testing Practices
+- Software Testing
 - Cloud Deployment
-- Clean Code Principles
-
-
----
-
-# Development Philosophy
-
-
-I believe effective software development requires:
-
-- Understanding real-world problems
-- Designing maintainable solutions
-- Writing clean and readable code
-- Continuously improving technical skills
-- Building software with long-term scalability in mind
+- Clean Code Practices
 
 ---
 
-# GitHub Analytics
+# 💡 Development Philosophy
 
+> "Great software is built by understanding problems, designing meaningful solutions, and continuously improving."
+
+My approach focuses on:
+
+✔ Understanding real-world challenges  
+✔ Creating maintainable solutions  
+✔ Writing clean and readable code  
+✔ Following software engineering practices  
+✔ Building applications with scalability in mind  
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Jmlozanes&show_icons=true&theme=tokyonight"
-alt="GitHub Stats"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jmlozanes&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </p>
 
 
 <p align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmlozanes&layout=compact&theme=tokyonight"
-alt="Top Languages"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmlozanes&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 
 ---
 
-# Development Goals
+# 🚀 Development Goals
 
+My current goals as a software developer:
 
-My current goals are focused on continuous growth as a software developer:
-
-
-- Build production-ready web applications
-- Improve backend development skills
-- Develop scalable software architecture
+- Build production-ready applications
+- Improve backend engineering skills
+- Design scalable software architectures
 - Strengthen database and system design knowledge
 - Apply software engineering best practices
-- Create useful solutions through technology
-
+- Create technology solutions with real-world impact
 
 ---
 
-# Connect With Me
-
+# 🤝 Connect With Me
 
 <p align="center">
 
 <a href="mailto:johnmarclozanes503@gmail.com">
-
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
-
 
 <a href="https://www.linkedin.com/in/john-marc-lozanes-33652b243/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
-
 <a href="https://github.com/Jmlozanes">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </p>
@@ -329,16 +322,11 @@ My current goals are focused on continuous growth as a software developer:
 
 ---
 
-<p align="center">
+<h3 align="center">
 
-Thank you for visiting my profile.
+🚀 Building software. Solving problems. Creating impact.
 
-</p>
-
-
-<p align="center">
-
-Building software through continuous learning, problem solving, and engineering discipline.
+</h3> through continuous learning, problem solving, and engineering discipline.
 
 </p>
 
