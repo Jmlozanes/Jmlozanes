@@ -99,7 +99,7 @@ Currently, I focus on creating modern web applications, improving backend system
 
 <p align="center">
 
-<img src="https://skillics.dev/icons?i=html,css,js,react,tailwind,nodejs,express,php,mysql,mongodb,git,github,vscode,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,php,mysql,mongodb,git,github,vscode,figma&perline=7"/>
 
 </p>
 
@@ -273,16 +273,12 @@ My approach focuses on:
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jmlozanes&show_icons=true&theme=tokyonight&hide_border=true" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jmlozanes&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmlozanes&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jmlozanes&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
