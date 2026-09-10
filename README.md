@@ -274,14 +274,14 @@ My approach focuses on:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jmlozanes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jmlozanes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmlozanes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jmlozanes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
