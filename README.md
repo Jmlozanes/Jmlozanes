@@ -1,11 +1,9 @@
 <h1 align="center">
   Hi 👋, I'm John Marc Lozañes
 </h1>
-
 <h3 align="center">
   💻 BS Computer Science Graduate | Full-Stack Developer
 </h3>
-
 <p align="center">
   Building scalable web applications through modern frontend, backend, and database technologies.
 </p>
